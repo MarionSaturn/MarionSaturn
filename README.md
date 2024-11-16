@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarionSaturn
 - 👀 I’m interested in sewing, historical fashion, crocheting, crafting in general, languages (currently learning Mandarin)
-- 🌱 I’m currently learning SQL, Python, Data Analysis and making graphs
+- 🌱 I’m currently learning SQL, Python and Data Analysis
 - 💞️ I’m looking to work on projects to show off my skills :)
 - 😄 Pronouns: they/he
 - ⚡ Fun fact: Did you know that bell pepper are actually considered berries?
